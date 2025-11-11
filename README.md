@@ -77,10 +77,18 @@ Software Engineering student at the University of Ottawa, I like building meanin
 
 
 ### 🏗️ Software Engineering Concepts
-![Agile](https://img.shields.io/badge/Agile-Scrum-2496ED?logo=atlassian&logoColor=white)
-![SDLC](https://img.shields.io/badge/SDLC-Process-blue)
-![API Integration](https://img.shields.io/badge/API%20Integration-FFA500)
-![UML](https://img.shields.io/badge/UML-D14836)
+<p align="left">
+  <!-- Methodologies / Concepts -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/agile.svg" width="40" height="40" alt="Agile"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/sdlc.svg" width="40" height="40" alt="SDLC"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/uml.svg" width="40" height="40" alt="UML"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/qa.svg" width="40" height="40" alt="QA"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/api.svg" width="40" height="40" alt="API"/>
+
+  <!-- Testing -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/qa.svg" width="40" height="40" alt="QA"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/qa.svg" width="40" height="40" alt="JUnit"/>
+
 
 ### 🧪 Testing & Quality
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white)
