@@ -88,7 +88,7 @@ Software Engineering student at the University of Ottawa, I like building meanin
   <!-- Testing -->
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/qa.svg" width="40" height="40" alt="QA"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/qa.svg" width="40" height="40" alt="JUnit"/>
-
+</p>
 
 ### 🧪 Testing & Quality
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white)
