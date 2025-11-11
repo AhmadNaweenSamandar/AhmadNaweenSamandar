@@ -5,15 +5,17 @@ I’m Ahmad
 Software Engineering student at the University of Ottawa, I like building meaningful AI-powered tools.
 
 ### 🚀 What I Do
-- Build apps in **Python, Java, React.js, and Android**
-- Design practical UI/UX flows in **Figma**
-- Automate workflows and CI processes
-- Learning AI tools to create Machine Learning based applications **I have several projects under work :) **
+- Build full-stack applications using **Python, Java, React.js, and Android**
+- Design clean and intuitive user interfaces using **Figma** and UI best practices
+- Create backend logic that supports data flow, API communication, and scalable performance
+- Automate workflows and enhance development pipelines using **CI/CD tools**
+- Currently learning **AI and Machine Learning** to develop intelligent, model-driven applications *(several projects in progress)*
+
 
 ### 💡 Current Interests
 - AI Agents + workflow automation
 - Scalable frontend frameworks
-- Community-centered software design
+- Backend logic with reliable performance
 
 ### 🛠️ Tech Stack
 ## 🧰 Skills & Technologies
