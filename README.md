@@ -1,4 +1,4 @@
-## 👋 Hey, when someone visit me, I welcome them with lots of Love!💖
+## 👋 Hey, when someone visits me I welcome them with lots of Love!💖
 
 I’m Ahmad
 
