@@ -106,5 +106,6 @@ Software Engineering student at the University of Ottawa, I like building meanin
 ### 📊 GitHub Stats
 ![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadNaweenSamandar&show_icons=true&theme=transparent)
 
+
 ### ✨ Fun Fact
 I like building tools that help to solve real problems, not just software that exists in a vacuum.
