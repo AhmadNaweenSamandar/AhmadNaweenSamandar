@@ -4,6 +4,9 @@ I’m Ahmad
 
 Software Engineering student at the University of Ottawa, I like building meaningful AI-powered tools.
 
+Check out my personal portfolio website [here](https://www.iamnaween.com)!
+
+
 ### 🚀 What I Do
 - Build full-stack applications using **Python, Java, React.js, and Android**
 - Design clean and intuitive user interfaces using **Figma** and UI best practices
