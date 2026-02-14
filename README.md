@@ -2,7 +2,7 @@
 
 I’m Ahmad
 
-Software Engineering student at the University of Ottawa, I like building meaningful AI-powered tools.
+Software Engineering student at the University of Ottawa, I like building AI-powered tools.
 
 Check out my personal portfolio website [here](https://www.iamnaween.com)!
 
