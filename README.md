@@ -70,7 +70,7 @@ Check out my personal portfolio website [here](https://www.iamnaween.com)!
 </p>
 
 
-### 🏗️ Software Concept
+### 🏗️ Software Engineerig Concept
 ![Agile](https://img.shields.io/badge/Agile-Scrum-2496ED?logo=atlassian&logoColor=white)
 ![SDLC](https://img.shields.io/badge/SDLC-Process-blue)
 ![API Integration](https://img.shields.io/badge/API%20Integration-FFA500)
