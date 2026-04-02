@@ -16,7 +16,7 @@ Check out my personal portfolio website [here](https://www.iamnaween.com)!
 
 
 ### 💡 Current Interests
-- AI Agents + workflow automation
+- AI integeration and workflow automation
 - Scalable frontend frameworks
 - Backend logic with reliable performance
 
