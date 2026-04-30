@@ -12,7 +12,7 @@ Check out my personal portfolio website [here](https://www.iamnaween.com)!
 - Design clean and intuitive user interfaces using **Figma** and UI best practices
 - Create backend logic that supports data flow, API communication, and scalable performance
 - Automate workflows and enhance development pipelines using **CI/CD tools**
-- Currently learning **AI and Machine Learning** to develop model-driven applications *(several projects in progress)*
+- Currently learning **AI and Machine Learning** to develop model-driven applications
 
 
 ### 💡 Current Interests
