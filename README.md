@@ -83,7 +83,7 @@ Check out my personal portfolio website [here](https://www.iamnaween.com)!
 ---
 
 ## 🌱 Currently Expanding Into (Machine Learning & AI)
-*These are technologies I am actively learning and applying in upcoming projects.*
+*These are technologies I am currently learning and applying in upcoming projects.*
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
