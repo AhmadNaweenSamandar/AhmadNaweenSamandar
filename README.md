@@ -20,7 +20,7 @@ Check out my personal portfolio website [here](https://www.iamnaween.com)!
 - Scalable frontend frameworks
 - Backend logic with reliable performance
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stacks
 ## 🧰 Skills & Technologies
 
 ### 🧑‍💻 Programming 
